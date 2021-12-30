@@ -1,0 +1,995 @@
+commit 03a57ba1c56697465cd897b2238e5b57adc07532
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 02:30:00 2021 -0400
+
+    COMPLETE (passes all checks)
+
+commit dfe1dbe2ca1b5df85b57cbc8dbd79abe2ec8d5b6
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:54:48 2021 -0400
+
+    final commit
+
+commit be7d2355ea2b0777e7cd064be726ca8db9fbb2a5
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:54:21 2021 -0400
+
+    COMPLETE (passes all checks)
+
+commit 68330209211cb7ad73e7968697474f7de1757d3c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:53:05 2021 -0400
+
+    updated gitlog
+
+commit 9006164df1228033d1cb59344efcda3b4ac4fd7b
+Merge: e37a5e8 84ef4ad
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Thu Mar 25 01:51:49 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit e37a5e828515f591a7778b9fb4dcb6d758fa9fa8
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Thu Mar 25 01:51:32 2021 -0400
+
+    Edited README
+
+commit 84ef4adce2cd7ae1400d9369a34f407a17c6ca32
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:50:14 2021 -0400
+
+    COMPLETE (passes all checks)
+
+commit 31bacaf76275dd691a5d1bd23d1b7b6f7045762e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:48:06 2021 -0400
+
+    COMPLETE (passes all checks)
+
+commit abcd3144fa31a366741cc3306c88c2928e2292f4
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:47:42 2021 -0400
+
+    COMPLETE (passes all checks)
+
+commit f3f9628dc78de6b3e7e5381b3c479f83ce89528b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:13:02 2021 -0400
+
+    removed TODO.txt
+
+commit b175d21376ff3c09299b9066f050b1b6479121d0
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:12:41 2021 -0400
+
+    COMPLETE (passes all checks)
+
+commit 8e170c250abb309780565c561097d392ca75963c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:06:03 2021 -0400
+
+    Created README
+
+commit d05a7d392946682711a6f942944e84ff18e9f0e6
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:03:43 2021 -0400
+
+    updated gitlog
+
+commit 4fc5243da08e318164341c4c8b26047e775c6002
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 01:03:22 2021 -0400
+
+    completed.
+
+commit c31d4161346d0b02b133300f13c6542ae1b29562
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 00:33:08 2021 -0400
+
+    updated gitlog
+
+commit d55684c9d5cb7d8b05699d21796da39d06ebff64
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 25 00:32:53 2021 -0400
+
+    COMPLETELY rewrote render_song... (are you serious)
+
+commit 4487454ead7ecbbd91f5f5f742f3a7718d44be8d
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:44:45 2021 -0400
+
+    fixing gain
+
+commit 98d285e47b7d3254b0691762af9dc218dc3ec9c1
+Merge: 789403d 19ef473
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:33:07 2021 -0400
+
+    debugging
+
+commit 789403db13e32ca531c8e8931624284894c5d0f9
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:32:28 2021 -0400
+
+    debug
+
+commit 19ef47366dc938d194a04e271243985334c9e100
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 21:32:08 2021 -0400
+
+    fixed MAJOR errors in render_song.c
+
+commit 0008b9e4e30c3e35e1b59fcb543a1cfdd1830429
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 21:31:02 2021 -0400
+
+    fixed MAJOR errors
+
+commit 3400a5affec5fa2b4004e2f4354c747a36f6714f
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:14:38 2021 -0400
+
+    Stil debugging..
+
+commit 4a48a8acda708b03eeb90b8ba830e5bba7c4d32d
+Merge: e618d92 2fcef4d
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:10:23 2021 -0400
+
+    debugging
+
+commit 2fcef4d9c26f8bcca00637088c7af9ae793b2ad7
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 21:08:55 2021 -0400
+
+    removed test prints
+
+commit e618d92698706fbeb8ac1c8e204fb79dac191084
+Merge: 64eb4b6 7e44d6c
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:06:30 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 7e44d6cca6ead5661273e07394dab353e05a5dfc
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 21:06:13 2021 -0400
+
+    fixed infinite loop
+
+commit 64eb4b69d5da39ae908d6f00da70ff0f9efef37d
+Merge: f9a10bd 504d6bd
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:05:29 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit f9a10bdb796641bbee8b1ddb0a0dc0cf5d01642e
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 21:04:41 2021 -0400
+
+    Still debugging render_song
+
+commit 504d6bd2969d3a49eb63aaaa3e656073b67bb59e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 21:02:25 2021 -0400
+
+    identified errors
+
+commit 8db1dbba3a3460a71f86e52a93cd9362c9e6ab1b
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:52:26 2021 -0400
+
+    Trying to debug render_song.c
+
+commit fe4218009d357c241b5bbc4d000420cc6a95d477
+Merge: c98dcad 33ed759
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:43:48 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit c98dcadd97ad28b1ce8b4329ed06ef7b363b5ea9
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:43:38 2021 -0400
+
+    Tried fixing render_song
+
+commit 33ed7598cac3806a4f2e2fa323d1e4d5d396e66a
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 20:42:52 2021 -0400
+
+    fixed ADSR
+
+commit 79de033c2e5ea3a35a0c0108240b346984624efb
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:31:36 2021 -0400
+
+    Added comments to TODO
+
+commit ff1641d7c0387797f3349e6ae4465bd2f06016bf
+Merge: b9c8e8a cae6ed0
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 20:21:34 2021 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit b9c8e8a89c877ce155bf89fa769187a7bf1541c3
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 20:21:31 2021 -0400
+
+    removed redundancy
+
+commit cae6ed07e512e79e1880908107d8e663191142c6
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:21:02 2021 -0400
+
+    Made sure %c does not take in whitespace
+
+commit 047bc66a6a264ed693d12669035fee0eb74d2f59
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 20:19:13 2021 -0400
+
+    changed makefile for render_song
+
+commit 27045595358bd77f16a5e3f1def53b9abac3f359
+Merge: 89aa785 b5675be
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:15:29 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 89aa7859166a58cec7d29b009d1d8f0b0cdd900c
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:15:09 2021 -0400
+
+    Updated gitlog
+
+commit b5675be9922e2c975480e73f059335945ba2a30e
+Merge: bf505aa f129fd0
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 20:14:39 2021 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit bf505aad1fc0dfe9c79c0d0173e4655f3d462c2d
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 20:14:37 2021 -0400
+
+    formatting
+
+commit f129fd0a36f55b13005493b26f7b1f57fe1415ae
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:14:18 2021 -0400
+
+    This commit is just for fun :) just kidding I updated gitlog
+
+commit b04528e3dbe3ddf00f2bdfee840d04fed7650a8a
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:13:35 2021 -0400
+
+    Removed (almost) all the errors
+
+commit 9c6f09e87667acd332ce6829d7acf4ea0ed8fcc3
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:07:22 2021 -0400
+
+    Fixed the scope of the output wav file
+
+commit d4c3044b19229398c1cab75e22c238b0e788f751
+Merge: 4297936 a2271f3
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:01:57 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 429793651e79ac192fe685759a94a4b53539deb3
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 20:01:27 2021 -0400
+
+    Fixed the writing of stereo_buf
+
+commit a2271f39c2aa5815fc8aa5f2aeea4353c091c198
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 19:53:50 2021 -0400
+
+    completed.
+
+commit 507d2fd4ee8fe45f572af4ce60ea5ffde101be2d
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 19:51:17 2021 -0400
+
+    render_echo returns no valgrind errors
+
+commit 340d10dc39fc5133ddcb27240417884c4a8f1c98
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 18:33:58 2021 -0400
+
+    can'
+
+commit aeeca518a240da1094108f65ab29e91ee236e1cc
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 18:06:25 2021 -0400
+
+    Fixed bugs in render_song.c
+
+commit a71bb6b451c0d2c4a1b7777fa5f45bcc1991731f
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 18:02:21 2021 -0400
+
+    Fixed errors in render_song.c
+
+commit 3ed13deb48d715e5a70784dfe4f311657b2b1d8a
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 17:40:56 2021 -0400
+
+    Fixed fscanf in render_song.c
+
+commit 7c12af8b96878171582b33c2bd03dd903b462d12
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 17:36:27 2021 -0400
+
+    Fixed Instrument initialization in render_song.c
+
+commit 5588412f24dc8dcfa7f1dc3874eaf26f07509081
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 17:19:29 2021 -0400
+
+    Finished 1st prototype of render_song.c
+
+commit 60156e8af5e681fe78b2f88a0791bf97a0ad6ff1
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 16:11:05 2021 -0400
+
+    Added fatal_error() to render_song.c
+
+commit 0b452a38db7bfcea1a4ba482ecf791d146eeca05
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 16:07:16 2021 -0400
+
+    Edited gitlog
+
+commit 275a0b441841b81bca52411233fd9d8a794df317
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 16:06:29 2021 -0400
+
+    Added mix_in from mono to stereo in render_song.c
+
+commit 2f702024dfff24460349866eee149e372dda27a5
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 16:04:45 2021 -0400
+
+    prototyped computing pan and applying pan
+
+commit cf542298b15f709dc502eb29a3afbf9a2daa69e3
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 15:54:12 2021 -0400
+
+    Added ADSR to render_song.c
+
+commit ab35d7cd319b2e5519a412ac80e22f1e9e8bb97a
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 15:51:38 2021 -0400
+
+    Added gain in render_song.c
+
+commit e3f2871bbbc06ef914f08c16d640264877105222
+Merge: b704ca5 8e91969
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 15:48:56 2021 -0400
+
+    Edited gitlog
+
+commit b704ca5187276a18d8f3d0cb813474f2c19f85e3
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 15:48:07 2021 -0400
+
+    Finishing up render_song.c
+
+commit 8e919696c9baf0d50961dee845da5552e33dc71b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 14:58:13 2021 -0400
+
+    updated gitlog
+
+commit 22b518b464f9116a50901c5f997c00d634f22d40
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 14:53:54 2021 -0400
+
+    fixed call for write_wave_header
+
+commit 0791efa652f60cc50baa701f4e292b2f996d0053
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 14:24:33 2021 -0400
+
+    render echo doesn't generate correct file
+
+commit 2c85a8e358a921e09df8042f5f1c31470299b9be
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 14:12:41 2021 -0400
+
+    completed for now
+
+commit 73f6746027ef16c8fe565913f4488d26e1becffe
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:45:08 2021 -0400
+
+    fixed minor error
+
+commit 503dc94766ba8ddc265ef74c656d7207c6966ecb
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:40:47 2021 -0400
+
+    fixed formatting
+
+commit 0a613b377bf311a92c9b1e5fdae3f3d824f1b4d4
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:39:37 2021 -0400
+
+    fixed formatting
+
+commit 9781658383a941f5a86ff1f87dd06a09cfda7d61
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:37:42 2021 -0400
+
+    fixed formatting
+
+commit a7dad06325c7205fba768563664bc3ad188562f0
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:36:22 2021 -0400
+
+    formatted README
+
+commit 14353f9c7ca91f1b53af9c01277f6b97712adf1d
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:33:50 2021 -0400
+
+    removed redundancy
+
+commit bc6c567a5ed945e9728b2d5797a0b066977d27e4
+Merge: dbd0872 ad96726
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:32:54 2021 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit dbd087297ecdcec1cbdf9366b39844850a5db340
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 12:32:46 2021 -0400
+
+    added README
+
+commit ad9672670fc636cdaa6dde62f20db1522b846491
+Merge: 22f562b 515e80f
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 03:56:02 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 22f562b4f4172d59c0e3f384380d2cc26ba2b79c
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 03:55:55 2021 -0400
+
+    Added TODOs
+
+commit b259c02fac8becc6df684ee06fdfe182a0279624
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 03:54:17 2021 -0400
+
+    Generated wave and added it to mono_buf in render_song.c
+
+commit 515e80f4182eda4b86bea5061484201fb60aea20
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 03:53:43 2021 -0400
+
+    partially completed render_echo
+
+commit fa726106c3a09c994c7ae9160bc3cde7bf08c444
+Merge: 170608e 4f9e513
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 03:16:13 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 170608eb2fffebfd28f42a767af2e26d01cddf58
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 03:16:06 2021 -0400
+
+    Merging
+
+commit 4f9e513214ef21ee4c0723655c90152a454c0635
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 03:03:38 2021 -0400
+
+    removed unnecessary files
+
+commit c5695cca68e381b16134c317ace39b8ac3574514
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 03:02:40 2021 -0400
+
+    added wav files to test render_echo
+
+commit 8692666235b02f5d2f0f8aaaefe9abc8d799dcbf
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:59:38 2021 -0400
+
+    changed Makefile to clean executables
+
+commit 8e46a3c7f4f23f51d5c2eaeb4b100481532c26bf
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:56:09 2021 -0400
+
+    added -lm tag to render_echo
+
+commit f8fc087c02f8950e516505d87423e120b33aa379
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:54:53 2021 -0400
+
+    changed instances of 'r' and 'w' to 'rb' and 'wb'
+
+commit 49d789681a3cdc01ad7aa98775047f65570bf509
+Merge: 339392a 5ea572b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:54:09 2021 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 339392a7e546a24dc30f160c9e3145b7cdd1104a
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:54:00 2021 -0400
+
+    changed instanced of 'r' and 'w' to 'rb' and 'wb'
+
+commit 5ea572bb4aecb255df972cb0adfdad4f47e379dd
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 02:40:22 2021 -0400
+
+    Added the loop to parse in Instruments in render_song
+
+commit a902e3f0813a433aee18a4a9f2c8ff125bd0616b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:14:58 2021 -0400
+
+    finished struct typedef
+
+commit 7d116cba63300fc56e538f4f016b406204870c41
+Merge: 7e6e54d 5697389
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 02:07:47 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 7e6e54dac84ebd568fdd7d3620ffbcbc9707735e
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 02:07:26 2021 -0400
+
+    Began work on render_song.c
+
+commit 5697389b5a9612e458561e932e9392cb58f0829d
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 02:06:47 2021 -0400
+
+    completed.
+
+commit a73ccd51c3fe883d22e893bab841e1e88c538d6e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:57:54 2021 -0400
+
+    completed.
+
+commit 479bf48326aa8403eb627a96298d84f005d3ad92
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:48:45 2021 -0400
+
+    completed.
+
+commit a6b0cfa2106ba6e0dd81a15b0b831f0de6958289
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:47:17 2021 -0400
+
+    changed TODO and updated gitlog
+
+commit cdc1119c23c6bc421dcb0601fd14853096538294
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:45:42 2021 -0400
+
+    removed TODO message
+
+commit 9db578d8a5de91524517bffc3def620874298db1
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:45:03 2021 -0400
+
+    generate_square_wave completed
+
+commit ea91cae732c5aca43e6bf1f6f8fb23c32268c595
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:27:38 2021 -0400
+
+    generate_square_wave completed
+
+commit 4b8538f484929fd3c402714cc1b7a3a1e6400fa1
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 01:15:48 2021 -0400
+
+    completed generate_sine_wave
+
+commit 8e9cb9b5c302abc23abbf3cbeaefb1dbf718b971
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 00:52:55 2021 -0400
+
+    removed unnecessary files
+
+commit 13999c27fe2d8dbb6d0f1406e749f522c691dc7f
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 00:50:45 2021 -0400
+
+    Freed stereo_buf in render_tone.c
+
+commit 7b03e5f89d01ed2b5cd077240b0d8834fda60ca1
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 00:49:31 2021 -0400
+
+    got sound to work
+
+commit f59cc824c16df6158304ad2a8213b1e9878eac1a
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 00:33:49 2021 -0400
+
+    fixed errors
+
+commit d9fedb0075cdc0a7f1e4758c8bd05cccfaaee0e3
+Merge: 560595d 361638b
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 00:29:44 2021 -0400
+
+    changes to render_tone.c
+
+commit 560595d9fa4470e588d2d6f6294c61ddb7982856
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 00:28:12 2021 -0400
+
+    Trying to debug wave.c and render_tone.c
+
+commit 361638bd2fdf8678d44b673eae5d20e3e8d1023a
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Wed Mar 24 00:14:59 2021 -0400
+
+    fixed minor error
+
+commit abf3138548fc580962cdeda73d54c0ea41d8e72f
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Wed Mar 24 00:10:48 2021 -0400
+
+    Changes to wave.c (to change bounds) and render_tone.c to debug
+
+commit d07e6472c920df84ba25760f5129d0dd8cc1d83a
+Merge: 84cd0d9 f8a74e9
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 23:58:25 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 84cd0d93fd5ac70c2f5d13ba1f4ed2de216013d3
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 23:58:17 2021 -0400
+
+    Changes to io.c
+
+commit f8a74e92154310eb3b7cb78a4ec12f71246adb03
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 23:56:33 2021 -0400
+
+    fixed minor errors
+
+commit 99b0ea17acef239f21e48b9fc6a569bc63bef297
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 23:53:59 2021 -0400
+
+    Fixed all ofthe files listed above, made major changes
+
+commit 5a47e25f8171014385d9a6e59df48a0f0870e941
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 22:38:28 2021 -0400
+
+    Fixed major error in Makefile
+
+commit 4b5455d2f9a4592794659adf2f84045bd2db18d7
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 17:23:18 2021 -0400
+
+    Edited mix_in to use channel as an argument
+
+commit fb0856107c96f40b120cee22e4970185d0dc103a
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 04:25:26 2021 -0400
+
+    Added Makefile
+
+commit dc476da1d8ac68f68301ae044b57d182a5a825e8
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 01:03:22 2021 -0400
+
+    fixed minor errors
+
+commit 4385d2241e459ceab52f1ac9329f5855bd806a06
+Merge: 7917aa7 4ec2def
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 01:01:39 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 7917aa734c8223c0e4cc27084179fb1d957ef98e
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 01:01:29 2021 -0400
+
+    Finished apply_adsr without using applygain
+
+commit 4ec2defed5afcc04c5c5ca8d7cc6994736fec514
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:47:43 2021 -0400
+
+    created prototype of render_echo.c
+
+commit 85c9013968b5efe23597473453a367e4ff0f4e3c
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:44:12 2021 -0400
+
+    updated gitlog
+
+commit 06ab22de336e822ce563dc8e735c3f2f29230c79
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:42:31 2021 -0400
+
+    fixed major errors
+
+commit b20b11afd7d66451488b2a913f5a79350d265cd3
+Merge: 7a1926b 137e0a6
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 00:35:25 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 7a1926b51c095b0f884baae2cbf965f30cfdfcea
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 00:35:17 2021 -0400
+
+    Editing the apply_adsr funciton in wave.c
+
+commit 137e0a65f333f365c16ff7963961590860961346
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:34:27 2021 -0400
+
+    changed int to unsigned for loop comparison
+
+commit 2bf2949e1c090c634a56c1fd650623421a733eab
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:32:36 2021 -0400
+
+    fixed major syntax errors
+
+commit 5f220d1b8fe28685b156e95a366e34500dcecf4b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:28:04 2021 -0400
+
+    fixed minor errors
+
+commit a7dea23f25e916e6163c6c367ef72b95d972dbb9
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:23:57 2021 -0400
+
+    created prototype of render_song.c
+
+commit 2641fba649368b30f28dcaa7d842eacb4b65a167
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:16:04 2021 -0400
+
+    completed write_wave_header implementation
+
+commit 71bb6be63bbef3aaa1857652558d2f4a021ccc00
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:14:37 2021 -0400
+
+    added generate functions and apply gain
+
+commit f53b21172433c2122d79a2060e92ac6cef94b545
+Merge: 9e2a1fa 50d7506
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:05:11 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 9e2a1fa466d16bcde7aaa528d99fb90a0f61a61f
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Tue Mar 23 00:04:43 2021 -0400
+
+    added logic for adsr
+
+commit 50d75062010bc84f62fcf294777f94d83b359873
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Tue Mar 23 00:04:11 2021 -0400
+
+    Completed the mix_in function in wave.c
+
+commit fbe058c2a7de54fb5cf68c6eef77b5441df8d030
+Merge: 0a86762 7f2c4f6
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Mon Mar 22 23:37:07 2021 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 0a867624176b54a8ae4bc2d761f953162a4f367e
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Mon Mar 22 23:36:44 2021 -0400
+
+    Changed the generating wave functions to reach full amplitude rather than -1 to 1.
+
+commit 7f2c4f62b0348f6922d2217f62bc0cccf5ed3b25
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Mar 21 21:28:59 2021 -0400
+
+    added todo
+
+commit 4c4b8539cf9f19cfa240ed374876a2e8311f2463
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Mar 21 21:27:51 2021 -0400
+
+    added mono_buf and close file
+
+commit 17f17e0d65bbff4aa0f268f320c8ef5b000157c2
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sun Mar 21 21:13:39 2021 -0400
+
+    added return statement
+
+commit 6f6b65ef59b3b97f00291cec9ffb2e8a26b89d32
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 18:18:23 2021 -0400
+
+    added todo list for easier communication
+
+commit 133f08f12066a7ae9fddb68b37d8d67d6f3232a7
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 17:39:27 2021 -0400
+
+    updated gitlog
+
+commit b4464ccc15335a9583092d70e758297573ada87a
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 17:35:39 2021 -0400
+
+    created and wrote render_tone file
+
+commit df94ebddb697e1af93a689c8d3f6b7160d54e1d1
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 17:21:10 2021 -0400
+
+    changed TODO
+
+commit a74483a808052a458dbdf979e6adb9ce5fc6bd61
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 17:15:35 2021 -0400
+
+    added apply_gain prototype
+
+commit e95e4fd86ca4f25e061583f34fd392607f3d9713
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 17:13:19 2021 -0400
+
+    square wave and saw wave prototype finished
+
+commit 2cce5d3cc3748b97aa2fa5751892a531ff949eec
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 16:57:30 2021 -0400
+
+    fixed constants
+
+commit c0ab80945ec0c0f1cdce6c1d5411f891e8c99b25
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Sat Mar 20 16:56:14 2021 -0400
+
+    prototype for generate_sine_wave
+
+commit dbc87c2c4882881b8e6283fb5805fbb95eb81679
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Fri Mar 19 20:04:31 2021 -0400
+
+    Defined compute_pan function
+
+commit 733eb6791427466bc66b47d18ba795123cbc7f08
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Fri Mar 19 19:56:50 2021 -0400
+
+    Created a gitlog to keep track of commits from each of us.
+
+commit 53b5d42a9a58e6825c3cd8b526c5f833730438d7
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Fri Mar 19 19:55:14 2021 -0400
+
+    Declared the headers in wave.c as declared in wave.h. Added new TODO: Define the functions below.
+
+commit 9e2ec5fb863129c26238d2b7deee355bda644591
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Fri Mar 19 19:25:38 2021 -0400
+
+    updated fatal_error
+
+commit f71943e3f5d26d7bda58511e7e0609ea0aa3c183
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Thu Mar 18 22:22:39 2021 -0400
+
+    removed .vimrc
+
+commit fe9beedc1fa77b9e4800de265cb26f6318bbfb9e
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Thu Mar 18 21:40:17 2021 -0400
+
+    Finished writing the read functions in io.c. Added a new TODO: review all of the functions to verify that they make sense and function properly.
+
+commit 74869eb40c47f9f467fbce2df474158d64e2a24c
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Thu Mar 18 21:27:19 2021 -0400
+
+    Completed writing all of the write functions in io.c. Also reviewed the fatal_error function, and left a note to my partner.
+
+commit d289f6e1311ca8debd69700a7e6370c0d7d2c414
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Thu Mar 18 21:05:55 2021 -0400
+
+    Completed write_byte by adding the call to fatal_error.
+
+commit 596578e842826c33b0b4ae423fb2e568ddd946ab
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Mar 8 13:16:05 2021 -0500
+
+    partially completed read_byte
+
+commit 7003bd2b9ff624820a3eb9eea79dff630555bcf1
+Merge: 9a7031e c32e612
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Mar 8 13:09:57 2021 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 9a7031e10046838a0c9aa698cd11e6e15ebe634d
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Mar 8 13:09:20 2021 -0500
+
+    added vimrc
+
+commit c32e6127ab4d21cf792b21a02cac0958fa4d8896
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Mon Mar 8 13:03:26 2021 -0500
+
+    Worked on unifying tab spaces between my (Joshua's) tab spaces and Kevin's tab spaces
+
+commit d54718b8ddcf899f43c9decde0b433a3cbaa1de6
+Merge: 4d58360 70827ff
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Mar 8 12:58:18 2021 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2021-spring-midterm-jhahn19-kkim170
+
+commit 4d58360e2efc2e7cfaf393062d7bbf054d98272e
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Mar 8 12:57:54 2021 -0500
+
+    initialized write_byte
+
+commit 70827ff35a92c869c53a60aa5d073c6f0756a545
+Author: Joshua Hahn <jhahn19@jhu.edu>
+Date:   Mon Mar 8 12:57:04 2021 -0500
+
+    Completed fatal_error function in io.c
+
+commit ff6b81ee15e5fc92c6cb7db0bce55e25990fea0b
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Mon Mar 8 12:50:43 2021 -0500
+
+    added functions to io.c
+
+commit a8ea954e5e6050019d29a112da330b4607703c96
+Author: Kevin Kim <randoget@gmail.com>
+Date:   Fri Mar 5 12:39:03 2021 -0500
+
+    Initialized with the starter codes
