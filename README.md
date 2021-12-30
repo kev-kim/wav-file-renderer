@@ -87,6 +87,8 @@ The program is invoked as such: `./render_echo wavfilein wavfileout delay amplit
 
 For example, render_echo can be called on linux.wav in the test folder (the famous audio by Linus Torvalds himself!) with a 0.5 second delay like this: `./render_echo linux.wav linux_echo.wav 22050 0.4`
 
+---
+
 The resulting audio and inputs for all the programs are in the test folder.
 
 Created with Joshua Hahn of Columbia University.
