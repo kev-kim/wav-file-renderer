@@ -91,7 +91,7 @@ The program is invoked as such: `./render_echo wavfilein wavfileout delay amplit
 - **delay** is an integer for the number of samples to delay the echo by
 - **amplitude** is a float between 0 and 1 that specifies the relative amplitude of the echo
 
-For example, render_echo can be called on linux.wav in the test folder (the famous audio by Linus Torvalds himself!) with a 0.5 second delay like this: `./render_echo linux.wav linux_echo.wav 22050 0.4`
+For example, render_echo can be called on linux.wav in the test folder (the famous audio by Linus Torvalds himself!) with a 0.5 second delay like this: `./render_echo test/linux.wav linux_echo.wav 22050 0.4`
 
 ---
 
