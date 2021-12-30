@@ -12,6 +12,8 @@ There are three main programs:
 
 To run any of these, run `make target` where *target* is the program desired.
 
+--
+
 ### render_tone
 
 This program is invoked as such: ```./render_tone waveform frequency amplitude numsamples wavfileout```
