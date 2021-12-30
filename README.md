@@ -12,7 +12,7 @@ There are three main programs:
 
 To run any of these, run `make target` where *target* is the program desired.
 
---
+---
 
 ### render_tone
 
@@ -25,6 +25,8 @@ This program is invoked as such: ```./render_tone waveform frequency amplitude n
 - **wavfileout** is the name of the WAVE file generated with the specified tone
 
 For example, to generate a sine wave of 440 Hz that lasts 1 second (with a reasonable volume), the program would be called like this: ```./render_tone 0 440.0 0.1 44100 a440_sine.wav```
+
+---
 
 ### render_song
 
@@ -77,6 +79,8 @@ N 1 220500 238140 70 0.8
 N 0 264600 282240 66 0.8
 N 0 264600 282240 70 0.8
 ```
+
+---
 
 ### render_echo
 
